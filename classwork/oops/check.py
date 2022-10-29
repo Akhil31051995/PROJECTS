@@ -1,6 +1,6 @@
 value = dict(zip('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', range(1, 53)))
 
-sent = 'CrIStiano RONaLDo'
+sent = 'aBC DeF'
 d1 = []
 d2 = []
 c = sent.split()  # main list
