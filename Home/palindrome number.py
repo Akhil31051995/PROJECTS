@@ -14,8 +14,8 @@
 # Output: false
 # Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
-x=list(str(101))
-y=x[::-1]                     #reversing a list
+x=str(121)
+y=x[::-1]                     #reversing a string. can also do on list
 
 if x==y:
     print(True)
