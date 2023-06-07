@@ -1,9 +1,0 @@
-project
-
-
-rows>1 lakh
-col>4
-
-5 topics prepare : explain dataset, data cleaning,visualization
-
-mini:all machine learning algo implementation and compare
